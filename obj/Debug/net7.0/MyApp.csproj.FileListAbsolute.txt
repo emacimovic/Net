@@ -1,0 +1,15 @@
+/Users/Emily/Desktop/4630/Net/MyApp/bin/Debug/net7.0/MyApp
+/Users/Emily/Desktop/4630/Net/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/Users/Emily/Desktop/4630/Net/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/Users/Emily/Desktop/4630/Net/MyApp/bin/Debug/net7.0/MyApp.dll
+/Users/Emily/Desktop/4630/Net/MyApp/bin/Debug/net7.0/MyApp.pdb
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.dll
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.pdb
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/Users/Emily/Desktop/4630/Net/MyApp/obj/Debug/net7.0/ref/MyApp.dll
